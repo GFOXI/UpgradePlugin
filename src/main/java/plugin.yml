@@ -1,0 +1,6 @@
+author: gfoxi
+version: 1.0-Snapshot
+main: pl.gfoxi.itemUpgrade.ItemUpgradePlugin
+
+commands:
+  ulepsz:
